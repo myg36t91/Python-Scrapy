@@ -1,5 +1,5 @@
 # Scrapy-Framework
-業界合作案子，每週一爬取新品以供分析
+大學專案，每週一爬取新品以供分析
 
 - framework architecture
 
